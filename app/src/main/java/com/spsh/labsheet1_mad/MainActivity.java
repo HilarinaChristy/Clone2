@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+//check 02
 public class MainActivity extends AppCompatActivity {
 
     @Override
